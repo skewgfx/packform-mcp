@@ -1,6 +1,6 @@
 # Packform MCP
 
-Read-only MCP server exposing the Packform distributor API to Hermes Agent.
+Read-only MCP server interacting the Packform distributor API to Hermes Agent.
 
 Twelve tools covering the order lifecycle: orders, line items, outstanding
 items, quote requests, supplier orders, deliveries, message threads, the
